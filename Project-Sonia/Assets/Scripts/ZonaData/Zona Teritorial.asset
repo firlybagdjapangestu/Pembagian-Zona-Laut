@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4ff0791a37b23943a2ce2dc35a45a76, type: 3}
+  m_Name: Zona Teritorial
+  m_EditorClassIdentifier: 
+  zonaID: 0
+  zonaName: Zona Teritorial
+  zonaDescription: Zona teritorial mencakup wilayah laut sejauh 12 mil laut dari
+    garis pangkal, di mana negara memiliki kedaulatan penuh, termasuk atas ruang
+    udara dan dasar laut. Namun, kapal asing tetap diizinkan melintas dengan hak
+    lintas damai selama tidak mengganggu keamanan.
+  soundDescriptionZona: {fileID: 8300000, guid: 2c95542ab5dd4a44f9a13fca55d2b2a6,
+    type: 3}
+  namaZona: Zona Teritorial
+  deskripsiZona: Zona teritorial mencakup wilayah laut sejauh 12 mil laut dari garis
+    pangkal, di mana negara memiliki kedaulatan penuh, termasuk atas ruang udara
+    dan dasar laut. Namun, kapal asing tetap diizinkan melintas dengan hak lintas
+    damai selama tidak mengganggu keamanan.
+  suaraPenjelasanZona: {fileID: 8300000, guid: 2c95542ab5dd4a44f9a13fca55d2b2a6, type: 3}

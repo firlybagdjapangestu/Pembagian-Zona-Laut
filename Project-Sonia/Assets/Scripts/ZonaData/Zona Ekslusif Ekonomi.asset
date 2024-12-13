@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4ff0791a37b23943a2ce2dc35a45a76, type: 3}
+  m_Name: Zona Ekslusif Ekonomi
+  m_EditorClassIdentifier: 
+  zonaID: 2
+  zonaName: Zona Ekslusif Ekonomi
+  zonaDescription: Zona ekonomi eksklusif (ZEE) meluas hingga 200 mil laut dari garis
+    pangkal, di mana negara memiliki hak eksklusif untuk mengeksplorasi dan memanfaatkan
+    sumber daya alam seperti ikan, minyak, gas, dan mineral. Meskipun demikian, negara
+    lain tetap diizinkan melintas dan melakukan aktivitas tertentu, seperti pemasangan
+    kabel bawah laut, tanpa mengeksploitasi sumber daya.
+  soundDescriptionZona: {fileID: 8300000, guid: 9193ca10562ddd94e9d08f4e414f60d7,
+    type: 3}
+  namaZona: Zona Ekslusif Ekonomi
+  deskripsiZona: Zona ekonomi eksklusif (ZEE) meluas hingga 200 mil laut dari garis
+    pangkal, di mana negara memiliki hak eksklusif untuk mengeksplorasi dan memanfaatkan
+    sumber daya alam seperti ikan, minyak, gas, dan mineral. Meskipun demikian, negara
+    lain tetap diizinkan melintas dan melakukan aktivitas tertentu, seperti pemasangan
+    kabel bawah laut, tanpa mengeksploitasi sumber daya.
+  suaraPenjelasanZona: {fileID: 8300000, guid: 9193ca10562ddd94e9d08f4e414f60d7, type: 3}
