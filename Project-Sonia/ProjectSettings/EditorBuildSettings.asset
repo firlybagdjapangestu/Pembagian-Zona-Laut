@@ -5,18 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SoniaMainMenu.unity
     guid: 526174b0736577c4d8e3ce37e511d871
   - enabled: 1
     path: Assets/Scenes/AugmantedReality.unity
     guid: 4b2fce23194914c479545876644938e8
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 0dc83aa9cebd7144081946b37a9d517f
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
